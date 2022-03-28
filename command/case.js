@@ -385,15 +385,7 @@ if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button 
 				break
 case 'infobot':
 if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button Untuk Verify`, [{buttonId: '.daftar',buttonText: {displayText: `Daftar`,},type: 1,}], {quoted: fgif});
-			reply('Neon Support
-1. https://chat.whatsapp.com/Gagjs8K5xJo2qnidIwAB3u
-2. https://chat.whatsapp.com/H59tXi1kx1s4Ve63tIP83Q
-
-Neon Community
-1. https://chat.whatsapp.com/DZ3xDefkmuQ411yp2HM2qo (grup meme) 
-2. https://discord.gg/93HNqfrpGB (server discord) 
-
-・Website [https://www.zeey.tk]')
+			reply('Neon Support https://chat.whatsapp.com/Gagjs8K5xJo2qnidIwAB3u')
 break
 case 'owner':{
 	if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button Untuk Verify`, [{buttonId: '.daftar',buttonText: {displayText: `Daftar`,},type: 1,}], {quoted: fgif});
