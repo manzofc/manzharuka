@@ -49,16 +49,6 @@ Click the deploy icon below !
  > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-## Termux
-```bash
-> apt update && apt upgrade
-> pkg install libweb nodejs git ffmpeg
-> git clone https://github.com/zeeone-ofc/Haruka.git
-> cd Haruka
-> npm install
-> node haruka.js
-```
-
 ## settings
 You can edit owner and other in `'./settings/config.json'`
 
